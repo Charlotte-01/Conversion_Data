@@ -1,13 +1,13 @@
 # 🌸 Data Challenge 01
-## 👋 Conversion_Data
+##  Conversion_Data
 
 We have data about users who hit our site: whether they converted or not as well as some of their characteristics such as their country, the marketing channel, their age, whether they are repeat users and the number of pages visited during that session (as a proxy for site activity/time spent on site).
 
-#### Goal:
+#### 🌻Goal:
 1. Predict conversion rate
 2. Come up with recommendations for the product team and the marketing team to improve conversion rate
 
-#### Columns:
+#### 🌻Columns:
 * country : user country based on the IP address
 * age : user age. Self-reported at sign-in step
 * new_user : whether the user created the account during this session or had already an * * account and simply came back to the site
